@@ -11,4 +11,6 @@
 * Du hast freie wahl bei den Farben usw. aber "versuche" es schön zu machen
 * GIT commits mindestns 3 (Einfach nach jeder einheit ein commit machen --> git commit -m "kommentare"
 
+### Hier ist ein Beispiel du kannst es auch gern einfach nachmachen oder eigenes Design
+
 ![bild1.png](bild1.png)
