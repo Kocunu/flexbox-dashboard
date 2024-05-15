@@ -10,3 +10,5 @@
 * Schöner Footer
 * Du hast freie wahl bei den Farben usw. aber "versuche" es schön zu machen
 * GIT commits mindestns 3 (Einfach nach jeder einheit ein commit machen --> git commit -m "kommentare"
+
+![bild1.png](bild1.png)
